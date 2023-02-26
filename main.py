@@ -3,7 +3,7 @@ import smtplib
 
 # Settings Mails 
 FROM_EMAIL = 'mail@mail.com' # Email sender
-PASSWORD = 'adhijuwbaiudwa' # Password of your email (Please enable password for applications in gmail)
+PASSWORD = '' # Password of your email (Please enable password for applications in gmail)
 TO_EMAIL = 'mail@mail2.com' # Email destinatary 
 
 
